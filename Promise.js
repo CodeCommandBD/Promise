@@ -1,6 +1,6 @@
 
-// const payment = false
-// const result = 70
+// const payment = true
+// const result = 80
 
 // function enroll() {
 //     console.log('course enroll is in progress');
